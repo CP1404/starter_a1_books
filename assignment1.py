@@ -1,14 +1,13 @@
 """
-Replace the contents of this module docstring with your own details
+CP1404 Assignment 1 - Books to Read
 Name:
-Date started:
+Date Started:
 GitHub URL:
 """
 
 
 def main():
     """..."""
-    print("Reading Tracker 1.0 - by Your Name")
 
 
 if __name__ == '__main__':
